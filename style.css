@@ -1,0 +1,23 @@
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal p {
+  color: #444;
+}
+
+.reveal a {
+  color: #00bfd3;
+}
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+#title p {
+  font-size: 0.7em;
+}
+
+#definition p {
+  width: 50%;
+}
