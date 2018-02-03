@@ -110,11 +110,11 @@ Ring is a free universal distributed communication platform which respect privac
 
 ---
 
-## Some new 2017 features
+## Other features
 
 <!-- .slide: data-background="./images/bgwhite.png" -->
 
-+ New contact management system and searching item
++ Searching item
 + Common database for each platforms
 + Add the ability to change passwords
 + vdpau acceleration support, etc.
@@ -156,14 +156,6 @@ See https://github.com/savoirfairelinux/opendht/wiki/Push-notifications-support
 
 + Auto video quality: Optimizing the auto video quality algorithm (RTCP/RTSP feedback)
 + A p2p file transfer implementation
-+ Redesign of the media system
-
-<!-- .slide: data-background="./images/bgwhite.png" -->
-
----
-
-## 2018 in short (2)
-
 + Improve the Telepathy Client
 + Connect Ring to Matrix as well as possible
 + Ring as a WebRTC client
@@ -172,7 +164,7 @@ See https://github.com/savoirfairelinux/opendht/wiki/Push-notifications-support
 
 ---
 
-## 2018 in short (3)
+## 2018 in short (2)
 
 + Packaging, translation, build scripts, support, testing, design, security verification.
 + ML, IRC, tuleap
