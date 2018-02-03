@@ -88,22 +88,24 @@ Ring is a free universal distributed communication platform which respect privac
 
 ---
 
-## Release party!
+## In varietate concordia - new platforms
 
-+ In varietate concordia
-
-### New platforms
 + [iOS](https://itunes.apple.com/us/app/ring-a-gnu-package/id1306951055?platform=iphone&preserveScrollPosition=true#platform/iphone)
 + Android TV
 + FDroid
 
-### New features
+![](./images/androidtv.png)
+<!-- .slide: data-background="./images/bgwhite.png" -->
+
+---
+
+## In varietate concordia - new features
+
 + File transfer
 + Push notifications
 + DHT Proxy
 + Improved contact managment
 
-![](./images/androidtv.png)
 <!-- .slide: data-background="./images/bgwhite.png" -->
 
 ---
