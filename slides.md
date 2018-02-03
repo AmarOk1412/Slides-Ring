@@ -92,6 +92,26 @@ more: https://tuleap.ring.cx/plugins/mediawiki/wiki/ring/index.php?title=Name_se
 
 ---
 
+## Release party!
+
++ In varietate concordia
+
+### New platforms
++ [iOS](https://itunes.apple.com/us/app/ring-a-gnu-package/id1306951055?platform=iphone&preserveScrollPosition=true#platform/iphone)
++ Android TV
++ FDroid
+
+### New features
++ File transfer
++ Push notifications
++ DHT Proxy
++ Improved contact managment
+
+![](./images/androidtv.png)
+<!-- .slide: data-background="./images/bgwhite.png" -->
+
+---
+
 ## Some new 2017 features
 
 <!-- .slide: data-background="./images/bgwhite.png" -->
@@ -104,18 +124,6 @@ more: https://tuleap.ring.cx/plugins/mediawiki/wiki/ring/index.php?title=Name_se
 ---
 
 ![](./images/features.png)
-<!-- .slide: data-background="./images/bgwhite.png" -->
-
----
-
-## Release party!
-
-+ 1.0!
-+ FDroid
-+ Android TV
-+ [iOS](https://itunes.apple.com/us/app/ring-a-gnu-package/id1306951055?platform=iphone&preserveScrollPosition=true#platform/iphone) (Ring GNU package)
-
-![](./images/androidtv.png)
 <!-- .slide: data-background="./images/bgwhite.png" -->
 
 ---
