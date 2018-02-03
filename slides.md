@@ -43,18 +43,14 @@ Ring is a free universal distributed communication platform which respect privac
 
 ---
 
-## The Name Server
+## Name registration: Ethereum contract
 
-**GET** */name/foobar*
+![](./images/ethereum.png)
 
-```json
-{
-    "name":"foobar",
-    "addr":"0x29347542eb07159f316577e1ae16243d152f6b7b"
-}
-```
-
-more: https://tuleap.ring.cx/plugins/mediawiki/wiki/ring/index.php?title=Name_server_protocol
++ Public distributed registrar
++ Name <-> RingID mappings
++ REST API
++ Optional
 
 <!-- .slide: data-background="./images/bgwhite.png" -->
 
